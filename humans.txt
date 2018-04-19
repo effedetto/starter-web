@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Francesco Di Benedett effedetto2@gmail.com	
 
 # THANKS
 
