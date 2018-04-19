@@ -16,7 +16,10 @@ Uno stato dopo , le principali carattaristiche
 
 Questo è un semplice progetto web, il rilascio puo 
 avvenire su qualsiasi web server o in locale 
+
 ##How to contribute
+
+Pleas fork this repository and then issue Pul Requests for review.
 
 ###Copyright 
 
