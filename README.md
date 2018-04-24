@@ -25,4 +25,4 @@ Pleas fork this repository and then issue Pul Requests for review.
 
 ###Copyright 
 
-2018 Git.Training.
+2018 Git.Training. Tutti Riservati 
